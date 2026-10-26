@@ -1,0 +1,255 @@
+[
+    {
+        "id": "d50cd09c03aa1252",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "8b78cf58ab35920c",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e771b0ad23484a83",
+        "type": "mqtt-broker",
+        "name": "Mosquitto Local",
+        "broker": "mqtt",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "f91c34e929a75cf5",
+        "type": "mqtt in",
+        "z": "d50cd09c03aa1252",
+        "name": "",
+        "topic": "kampus/labiot/telemetri",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "e771b0ad23484a83",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 420,
+        "y": 360,
+        "wires": [
+            [
+                "1a60b171b74f7b7a",
+                "058bbf0bd58d49da"
+            ]
+        ]
+    },
+    {
+        "id": "1a60b171b74f7b7a",
+        "type": "debug",
+        "z": "d50cd09c03aa1252",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "058bbf0bd58d49da",
+        "type": "switch",
+        "z": "d50cd09c03aa1252",
+        "name": "",
+        "property": "payload.suhu",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "gt",
+                "v": "31",
+                "vt": "str"
+            },
+            {
+                "t": "lte",
+                "v": "31",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 510,
+        "y": 200,
+        "wires": [
+            [
+                "f6ee7912508887e1"
+            ],
+            [
+                "5afa0d0487de3f66"
+            ]
+        ]
+    },
+    {
+        "id": "f6ee7912508887e1",
+        "type": "change",
+        "z": "d50cd09c03aa1252",
+        "name": "Nyalakan LED Indikator",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{   \"led\": 1 }",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 770,
+        "y": 200,
+        "wires": [
+            [
+                "13d5e7c2760aaf7e"
+            ]
+        ]
+    },
+    {
+        "id": "5afa0d0487de3f66",
+        "type": "change",
+        "z": "d50cd09c03aa1252",
+        "name": "Padamkan LED Indikator",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{   \"led\": 0 }",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 770,
+        "y": 260,
+        "wires": [
+            [
+                "13d5e7c2760aaf7e"
+            ]
+        ]
+    },
+    {
+        "id": "13d5e7c2760aaf7e",
+        "type": "mqtt out",
+        "z": "d50cd09c03aa1252",
+        "name": "",
+        "topic": "kampus/labiot/kendali",
+        "qos": "1",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "e771b0ad23484a83",
+        "x": 1140,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "05f54d90d8bdab61",
+        "type": "inject",
+        "z": "8b78cf58ab35920c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "31.5",
+        "payloadType": "num",
+        "x": 250,
+        "y": 260,
+        "wires": [
+            [
+                "13f8dd3910f2dc1e"
+            ]
+        ]
+    },
+    {
+        "id": "13f8dd3910f2dc1e",
+        "type": "function",
+        "z": "8b78cf58ab35920c",
+        "name": "Histeresis Suhu",
+        "func": "\nlet suhu = Number(msg.payload);\nlet led = context.get(\"led\") || 0;\n\nif (suhu > 31.5) {\n    led = 1;\n} else if (suhu < 30.0) {\n    led = 0;\n}\n\ncontext.set(\"led\", led);\n\nmsg.payload = {\n    led: led\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 260,
+        "wires": [
+            [
+                "79bdad915498df49"
+            ]
+        ]
+    },
+    {
+        "id": "79bdad915498df49",
+        "type": "debug",
+        "z": "8b78cf58ab35920c",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 680,
+        "y": 260,
+        "wires": []
+    }
+]

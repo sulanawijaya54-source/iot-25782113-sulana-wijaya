@@ -1,0 +1,690 @@
+1792403656: mosquitto version 2.1.2 starting
+1792403656: Config loaded from /mosquitto/config/mosquitto.conf.
+1792403656: Bridge support available.
+1792403656: Persistence support available.
+1792403656: TLS support available.
+1792403656: TLS-PSK support available.
+1792403656: Websockets support available.
+1792403656: Opening ipv4 listen socket on port 1883.
+1792403656: Opening ipv6 listen socket on port 1883.
+1792403656: Opening ipv4 listen socket on port 9001.
+1792403656: Opening ipv6 listen socket on port 9001.
+1792403656: mosquitto version 2.1.2 running
+1792405456: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792407257: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792408016: New connection from ::1:51732 on port 1883.
+1792408016: New client connected from ::1:51732 as auto-6C6124B0-C0A7-ED9D-CC2B-BC3EAED157A2 (p4, c1, k60).
+1792408115: New connection from ::1:43998 on port 1883.
+1792408115: New client connected from ::1:43998 as auto-AB0927B7-725B-46C8-E026-FC68BE2F0FB0 (p4, c1, k60).
+1792408115: Client auto-AB0927B7-725B-46C8-E026-FC68BE2F0FB0 [::1:43998] disconnected.
+1792409058: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792633545: mosquitto version 2.1.2 starting
+1792633545: Config loaded from /mosquitto/config/mosquitto.conf.
+1792633545: Bridge support available.
+1792633545: Persistence support available.
+1792633545: TLS support available.
+1792633545: TLS-PSK support available.
+1792633545: Websockets support available.
+1792633545: Opening ipv4 listen socket on port 1883.
+1792633545: Opening ipv6 listen socket on port 1883.
+1792633545: Opening ipv4 listen socket on port 9001.
+1792633545: Opening ipv6 listen socket on port 9001.
+1792633545: mosquitto version 2.1.2 running
+1792635346: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1792637147: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793005308: mosquitto version 2.1.2 starting
+1793005308: Config loaded from /mosquitto/config/mosquitto.conf.
+1793005308: Bridge support available.
+1793005308: Persistence support available.
+1793005308: TLS support available.
+1793005308: TLS-PSK support available.
+1793005308: Websockets support available.
+1793005308: Opening ipv4 listen socket on port 1883.
+1793005308: Opening ipv6 listen socket on port 1883.
+1793005308: Opening ipv4 listen socket on port 9001.
+1793005308: Opening ipv6 listen socket on port 9001.
+1793005308: mosquitto version 2.1.2 running
+1793006127: mosquitto version 2.1.2 terminating
+1793006127: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793006128: mosquitto version 2.1.2 starting
+1793006128: Config loaded from /mosquitto/config/mosquitto.conf.
+1793006128: Bridge support available.
+1793006128: Persistence support available.
+1793006128: TLS support available.
+1793006128: TLS-PSK support available.
+1793006128: Websockets support available.
+1793006128: Opening ipv4 listen socket on port 1883.
+1793006128: Opening ipv6 listen socket on port 1883.
+1793006128: Opening ipv4 listen socket on port 9001.
+1793006128: Opening ipv6 listen socket on port 9001.
+1793006128: mosquitto version 2.1.2 running
+1793006661: mosquitto version 2.1.2 terminating
+1793006661: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793006662: mosquitto version 2.1.2 starting
+1793006662: Config loaded from /mosquitto/config/mosquitto.conf.
+1793006662: Bridge support available.
+1793006662: Persistence support available.
+1793006662: TLS support available.
+1793006662: TLS-PSK support available.
+1793006662: Websockets support available.
+1793006662: Opening ipv4 listen socket on port 1883.
+1793006662: Opening ipv6 listen socket on port 1883.
+1793006662: Opening ipv4 listen socket on port 9001.
+1793006662: Opening ipv6 listen socket on port 9001.
+1793006662: mosquitto version 2.1.2 running
+1793007634: New connection from 172.21.0.1:58388 on port 1883.
+1793007634: Client 172.21.0.1 [172.21.0.1:58388] disconnected: connection closed by client.
+1793007742: New connection from 172.21.0.1:50712 on port 1883.
+1793007742: New client connected from 172.21.0.1:50712 as ESP8266_Local_Node01 (p4, c1, k15).
+1793007825: Client ESP8266_Local_Node01 [172.21.0.1:50712] disconnected: exceeded timeout.
+1793008003: New connection from 172.21.0.1:52528 on port 1883.
+1793008003: New client connected from 172.21.0.1:52528 as ESP8266_Local_Node01 (p4, c1, k15).
+1793008462: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793008713: New connection from 172.21.0.1:52338 on port 1883.
+1793008713: Client ESP8266_Local_Node01 [172.21.0.1:52528] disconnected: session taken over.
+1793008713: New client connected from 172.21.0.1:52338 as ESP8266_Local_Node01 (p4, c1, k15).
+1793009481: New connection from 172.21.0.2:59746 on port 1883.
+1793009481: New client connected from 172.21.0.2:59746 as nodered42274b5979ce81c9 (p4, c1, k60).
+1793010016: Client ESP8266_Local_Node01 [172.21.0.1:52338] disconnected: exceeded timeout.
+1793012868: mosquitto version 2.1.2 starting
+1793012868: Config loaded from /mosquitto/config/mosquitto.conf.
+1793012868: Bridge support available.
+1793012868: Persistence support available.
+1793012868: TLS support available.
+1793012868: TLS-PSK support available.
+1793012868: Websockets support available.
+1793012868: Opening ipv4 listen socket on port 1883.
+1793012868: Opening ipv6 listen socket on port 1883.
+1793012868: Opening ipv4 listen socket on port 9001.
+1793012868: Opening ipv6 listen socket on port 9001.
+1793012868: mosquitto version 2.1.2 running
+1793012874: New connection from 172.21.0.2:33468 on port 1883.
+1793012874: New client connected from 172.21.0.2:33468 as nodered36c9cda4ac794381 (p4, c1, k60).
+1793013778: New connection from 172.21.0.1:54660 on port 1883.
+1793013778: New client connected from 172.21.0.1:54660 as ESP8266_Local_Node01 (p4, c1, k15).
+1793013869: Client ESP8266_Local_Node01 [172.21.0.1:54660] disconnected: exceeded timeout.
+1793013880: New connection from 172.21.0.1:50296 on port 1883.
+1793013880: New client connected from 172.21.0.1:50296 as ESP8266_Local_Node01 (p4, c1, k15).
+1793013912: Client nodered36c9cda4ac794381 [172.21.0.2:33468] disconnected.
+1793013912: New connection from 172.21.0.2:49290 on port 1883.
+1793013912: New client connected from 172.21.0.2:49290 as nodered46cbe781d6c962bf (p4, c1, k60).
+1793014204: Client ESP8266_Local_Node01 [172.21.0.1:50296] disconnected: exceeded timeout.
+1793014234: New connection from 172.21.0.1:49800 on port 1883.
+1793014234: New client connected from 172.21.0.1:49800 as ESP8266_Local_Node01 (p4, c1, k15).
+1793014312: Client ESP8266_Local_Node01 [172.21.0.1:49800] disconnected: exceeded timeout.
+1793014367: Client nodered46cbe781d6c962bf [172.21.0.2:49290] disconnected.
+1793014368: New connection from 172.21.0.2:53478 on port 1883.
+1793014368: New client connected from 172.21.0.2:53478 as nodered97393b31aedc414d (p4, c1, k60).
+1793014668: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793015102: Client nodered97393b31aedc414d [172.21.0.2:53478] disconnected.
+1793015102: New connection from 172.21.0.2:60332 on port 1883.
+1793015102: New client connected from 172.21.0.2:60332 as noderedffa4bcd55b856620 (p4, c1, k60).
+1793015492: Client noderedffa4bcd55b856620 [172.21.0.2:60332] disconnected.
+1793015492: New connection from 172.21.0.2:48794 on port 1883.
+1793015492: New client connected from 172.21.0.2:48794 as noderedf4974fb39516869a (p4, c1, k60).
+1793015717: Client noderedf4974fb39516869a [172.21.0.2:48794] disconnected.
+1793015717: New connection from 172.21.0.2:39978 on port 1883.
+1793015717: New client connected from 172.21.0.2:39978 as noderedc1e3c9e416353a4d (p4, c1, k60).
+1793015738: Client noderedc1e3c9e416353a4d [172.21.0.2:39978] disconnected.
+1793015738: New connection from 172.21.0.2:56074 on port 1883.
+1793015738: New client connected from 172.21.0.2:56074 as nodered0cd1eb9255d97eed (p4, c1, k60).
+1793016028: Client nodered0cd1eb9255d97eed [172.21.0.2:56074] disconnected.
+1793016028: New connection from 172.21.0.2:34392 on port 1883.
+1793016028: New client connected from 172.21.0.2:34392 as nodered9739e8b386f7c981 (p4, c1, k60).
+1793016057: Client nodered9739e8b386f7c981 [172.21.0.2:34392] disconnected.
+1793016057: New connection from 172.21.0.2:48326 on port 1883.
+1793016057: New client connected from 172.21.0.2:48326 as noderede203d20ca2cb334b (p4, c1, k60).
+1793016281: Client noderede203d20ca2cb334b [172.21.0.2:48326] disconnected.
+1793016281: New connection from 172.21.0.2:38456 on port 1883.
+1793016281: New client connected from 172.21.0.2:38456 as nodered434ffedd2202c6e5 (p4, c1, k60).
+1793016411: Client nodered434ffedd2202c6e5 [172.21.0.2:38456] disconnected.
+1793016411: New connection from 172.21.0.2:55764 on port 1883.
+1793016411: New client connected from 172.21.0.2:55764 as nodered491c28e7b077c979 (p4, c1, k60).
+1793016469: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793016529: New connection from 172.21.0.1:59186 on port 1883.
+1793016529: New client connected from 172.21.0.1:59186 as ESP8266_Local_Node01 (p4, c1, k15).
+1793016807: Client ESP8266_Local_Node01 [172.21.0.1:59186] disconnected: exceeded timeout.
+1793018270: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793018320: Client nodered491c28e7b077c979 [172.21.0.2:55764] disconnected.
+1793018320: New connection from 172.21.0.2:53656 on port 1883.
+1793018320: New client connected from 172.21.0.2:53656 as nodered8b0210b80500e611 (p4, c1, k60).
+1793019037: Client nodered8b0210b80500e611 [172.21.0.2:53656] disconnected.
+1793019037: New connection from 172.21.0.2:53312 on port 1883.
+1793019037: New client connected from 172.21.0.2:53312 as noderedfc3166180ed48e2a (p4, c1, k60).
+1793019039: New connection from 172.21.0.1:40894 on port 1883.
+1793019039: New client connected from 172.21.0.1:40894 as ESP8266_Local_Node01 (p4, c1, k15).
+1793019206: Client ESP8266_Local_Node01 [172.21.0.1:40894] disconnected: exceeded timeout.
+1793019245: New connection from 172.21.0.1:32816 on port 1883.
+1793019245: New client connected from 172.21.0.1:32816 as ESP8266_Local_Node01 (p4, c1, k15).
+1793019351: Client ESP8266_Local_Node01 [172.21.0.1:32816] disconnected: exceeded timeout.
+1793020071: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020696: mosquitto version 2.1.2 terminating
+1793020696: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020697: mosquitto version 2.1.2 starting
+1793020697: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020697: Bridge support available.
+1793020697: Persistence support available.
+1793020697: TLS support available.
+1793020697: TLS-PSK support available.
+1793020697: Websockets support available.
+1793020697: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020697: mosquitto version 2.1.2 terminating
+1793020697: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020698: mosquitto version 2.1.2 starting
+1793020698: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020698: Bridge support available.
+1793020698: Persistence support available.
+1793020698: TLS support available.
+1793020698: TLS-PSK support available.
+1793020698: Websockets support available.
+1793020698: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020698: mosquitto version 2.1.2 terminating
+1793020698: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020698: mosquitto version 2.1.2 starting
+1793020698: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020698: Bridge support available.
+1793020698: Persistence support available.
+1793020698: TLS support available.
+1793020698: TLS-PSK support available.
+1793020698: Websockets support available.
+1793020698: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020698: mosquitto version 2.1.2 terminating
+1793020698: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020699: mosquitto version 2.1.2 starting
+1793020699: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020699: Bridge support available.
+1793020699: Persistence support available.
+1793020699: TLS support available.
+1793020699: TLS-PSK support available.
+1793020699: Websockets support available.
+1793020699: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020699: mosquitto version 2.1.2 terminating
+1793020699: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020700: mosquitto version 2.1.2 starting
+1793020700: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020700: Bridge support available.
+1793020700: Persistence support available.
+1793020700: TLS support available.
+1793020700: TLS-PSK support available.
+1793020700: Websockets support available.
+1793020700: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020700: mosquitto version 2.1.2 terminating
+1793020700: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020702: mosquitto version 2.1.2 starting
+1793020702: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020702: Bridge support available.
+1793020702: Persistence support available.
+1793020702: TLS support available.
+1793020702: TLS-PSK support available.
+1793020702: Websockets support available.
+1793020702: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020702: mosquitto version 2.1.2 terminating
+1793020702: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020705: mosquitto version 2.1.2 starting
+1793020705: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020705: Bridge support available.
+1793020705: Persistence support available.
+1793020705: TLS support available.
+1793020705: TLS-PSK support available.
+1793020705: Websockets support available.
+1793020705: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020705: mosquitto version 2.1.2 terminating
+1793020705: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020712: mosquitto version 2.1.2 starting
+1793020712: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020712: Bridge support available.
+1793020712: Persistence support available.
+1793020712: TLS support available.
+1793020712: TLS-PSK support available.
+1793020712: Websockets support available.
+1793020712: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020712: mosquitto version 2.1.2 terminating
+1793020712: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020725: mosquitto version 2.1.2 starting
+1793020725: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020725: Bridge support available.
+1793020725: Persistence support available.
+1793020725: TLS support available.
+1793020725: TLS-PSK support available.
+1793020725: Websockets support available.
+1793020725: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020725: mosquitto version 2.1.2 terminating
+1793020725: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020751: mosquitto version 2.1.2 starting
+1793020751: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020751: Bridge support available.
+1793020751: Persistence support available.
+1793020751: TLS support available.
+1793020751: TLS-PSK support available.
+1793020751: Websockets support available.
+1793020751: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020751: mosquitto version 2.1.2 terminating
+1793020751: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020802: mosquitto version 2.1.2 starting
+1793020802: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020802: Bridge support available.
+1793020802: Persistence support available.
+1793020802: TLS support available.
+1793020802: TLS-PSK support available.
+1793020802: Websockets support available.
+1793020802: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020802: mosquitto version 2.1.2 terminating
+1793020802: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020863: mosquitto version 2.1.2 starting
+1793020863: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020863: Bridge support available.
+1793020863: Persistence support available.
+1793020863: TLS support available.
+1793020863: TLS-PSK support available.
+1793020863: Websockets support available.
+1793020863: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020863: mosquitto version 2.1.2 terminating
+1793020863: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020924: mosquitto version 2.1.2 starting
+1793020924: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020924: Bridge support available.
+1793020924: Persistence support available.
+1793020924: TLS support available.
+1793020924: TLS-PSK support available.
+1793020924: Websockets support available.
+1793020924: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020924: mosquitto version 2.1.2 terminating
+1793020924: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793020984: mosquitto version 2.1.2 starting
+1793020984: Config loaded from /mosquitto/config/mosquitto.conf.
+1793020984: Bridge support available.
+1793020984: Persistence support available.
+1793020984: TLS support available.
+1793020984: TLS-PSK support available.
+1793020984: Websockets support available.
+1793020984: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793020984: mosquitto version 2.1.2 terminating
+1793020984: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021045: mosquitto version 2.1.2 starting
+1793021045: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021045: Bridge support available.
+1793021045: Persistence support available.
+1793021045: TLS support available.
+1793021045: TLS-PSK support available.
+1793021045: Websockets support available.
+1793021045: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021045: mosquitto version 2.1.2 terminating
+1793021045: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021105: mosquitto version 2.1.2 starting
+1793021105: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021105: Bridge support available.
+1793021105: Persistence support available.
+1793021105: TLS support available.
+1793021105: TLS-PSK support available.
+1793021105: Websockets support available.
+1793021105: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021105: mosquitto version 2.1.2 terminating
+1793021105: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021165: mosquitto version 2.1.2 starting
+1793021165: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021165: Bridge support available.
+1793021165: Persistence support available.
+1793021165: TLS support available.
+1793021165: TLS-PSK support available.
+1793021165: Websockets support available.
+1793021165: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021165: mosquitto version 2.1.2 terminating
+1793021165: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021225: mosquitto version 2.1.2 starting
+1793021225: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021225: Bridge support available.
+1793021225: Persistence support available.
+1793021225: TLS support available.
+1793021225: TLS-PSK support available.
+1793021225: Websockets support available.
+1793021225: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021225: mosquitto version 2.1.2 terminating
+1793021225: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021286: mosquitto version 2.1.2 starting
+1793021286: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021286: Bridge support available.
+1793021286: Persistence support available.
+1793021286: TLS support available.
+1793021286: TLS-PSK support available.
+1793021286: Websockets support available.
+1793021286: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021286: mosquitto version 2.1.2 terminating
+1793021286: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021346: mosquitto version 2.1.2 starting
+1793021346: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021346: Bridge support available.
+1793021346: Persistence support available.
+1793021346: TLS support available.
+1793021346: TLS-PSK support available.
+1793021346: Websockets support available.
+1793021346: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021346: mosquitto version 2.1.2 terminating
+1793021346: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021406: mosquitto version 2.1.2 starting
+1793021406: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021406: Bridge support available.
+1793021406: Persistence support available.
+1793021406: TLS support available.
+1793021406: TLS-PSK support available.
+1793021406: Websockets support available.
+1793021406: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021406: mosquitto version 2.1.2 terminating
+1793021406: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021466: mosquitto version 2.1.2 starting
+1793021466: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021466: Bridge support available.
+1793021466: Persistence support available.
+1793021466: TLS support available.
+1793021466: TLS-PSK support available.
+1793021466: Websockets support available.
+1793021466: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021466: mosquitto version 2.1.2 terminating
+1793021466: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021527: mosquitto version 2.1.2 starting
+1793021527: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021527: Bridge support available.
+1793021527: Persistence support available.
+1793021527: TLS support available.
+1793021527: TLS-PSK support available.
+1793021527: Websockets support available.
+1793021527: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021527: mosquitto version 2.1.2 terminating
+1793021527: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021587: mosquitto version 2.1.2 starting
+1793021587: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021587: Bridge support available.
+1793021587: Persistence support available.
+1793021587: TLS support available.
+1793021587: TLS-PSK support available.
+1793021587: Websockets support available.
+1793021587: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021587: mosquitto version 2.1.2 terminating
+1793021587: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021647: mosquitto version 2.1.2 starting
+1793021647: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021647: Bridge support available.
+1793021647: Persistence support available.
+1793021647: TLS support available.
+1793021647: TLS-PSK support available.
+1793021647: Websockets support available.
+1793021647: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021647: mosquitto version 2.1.2 terminating
+1793021647: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021708: mosquitto version 2.1.2 starting
+1793021708: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021708: Bridge support available.
+1793021708: Persistence support available.
+1793021708: TLS support available.
+1793021708: TLS-PSK support available.
+1793021708: Websockets support available.
+1793021708: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021708: mosquitto version 2.1.2 terminating
+1793021708: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793021769: mosquitto version 2.1.2 starting
+1793021769: Config loaded from /mosquitto/config/mosquitto.conf.
+1793021769: Bridge support available.
+1793021769: Persistence support available.
+1793021769: TLS support available.
+1793021769: TLS-PSK support available.
+1793021769: Websockets support available.
+1793021769: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793021769: mosquitto version 2.1.2 terminating
+1793021769: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022207: mosquitto version 2.1.2 starting
+1793022207: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022207: Bridge support available.
+1793022207: Persistence support available.
+1793022207: TLS support available.
+1793022207: TLS-PSK support available.
+1793022207: Websockets support available.
+1793022207: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022207: mosquitto version 2.1.2 terminating
+1793022207: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022208: mosquitto version 2.1.2 starting
+1793022208: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022208: Bridge support available.
+1793022208: Persistence support available.
+1793022208: TLS support available.
+1793022208: TLS-PSK support available.
+1793022208: Websockets support available.
+1793022208: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022208: mosquitto version 2.1.2 terminating
+1793022208: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022209: mosquitto version 2.1.2 starting
+1793022209: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022209: Bridge support available.
+1793022209: Persistence support available.
+1793022209: TLS support available.
+1793022209: TLS-PSK support available.
+1793022209: Websockets support available.
+1793022209: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022209: mosquitto version 2.1.2 terminating
+1793022209: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022209: mosquitto version 2.1.2 starting
+1793022209: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022209: Bridge support available.
+1793022209: Persistence support available.
+1793022209: TLS support available.
+1793022209: TLS-PSK support available.
+1793022209: Websockets support available.
+1793022209: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022209: mosquitto version 2.1.2 terminating
+1793022209: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022211: mosquitto version 2.1.2 starting
+1793022211: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022211: Bridge support available.
+1793022211: Persistence support available.
+1793022211: TLS support available.
+1793022211: TLS-PSK support available.
+1793022211: Websockets support available.
+1793022211: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022211: mosquitto version 2.1.2 terminating
+1793022211: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022213: mosquitto version 2.1.2 starting
+1793022213: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022213: Bridge support available.
+1793022213: Persistence support available.
+1793022213: TLS support available.
+1793022213: TLS-PSK support available.
+1793022213: Websockets support available.
+1793022213: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022213: mosquitto version 2.1.2 terminating
+1793022213: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022216: mosquitto version 2.1.2 starting
+1793022216: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022216: Bridge support available.
+1793022216: Persistence support available.
+1793022216: TLS support available.
+1793022216: TLS-PSK support available.
+1793022216: Websockets support available.
+1793022216: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022216: mosquitto version 2.1.2 terminating
+1793022216: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022223: mosquitto version 2.1.2 starting
+1793022223: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022223: Bridge support available.
+1793022223: Persistence support available.
+1793022223: TLS support available.
+1793022223: TLS-PSK support available.
+1793022223: Websockets support available.
+1793022223: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022223: mosquitto version 2.1.2 terminating
+1793022223: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022236: mosquitto version 2.1.2 starting
+1793022236: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022236: Bridge support available.
+1793022236: Persistence support available.
+1793022236: TLS support available.
+1793022236: TLS-PSK support available.
+1793022236: Websockets support available.
+1793022236: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022236: mosquitto version 2.1.2 terminating
+1793022236: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022262: mosquitto version 2.1.2 starting
+1793022262: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022262: Bridge support available.
+1793022262: Persistence support available.
+1793022262: TLS support available.
+1793022262: TLS-PSK support available.
+1793022262: Websockets support available.
+1793022262: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022262: mosquitto version 2.1.2 terminating
+1793022262: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022314: mosquitto version 2.1.2 starting
+1793022314: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022314: Bridge support available.
+1793022314: Persistence support available.
+1793022314: TLS support available.
+1793022314: TLS-PSK support available.
+1793022314: Websockets support available.
+1793022314: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022314: mosquitto version 2.1.2 terminating
+1793022314: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022374: mosquitto version 2.1.2 starting
+1793022374: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022374: Bridge support available.
+1793022374: Persistence support available.
+1793022374: TLS support available.
+1793022374: TLS-PSK support available.
+1793022374: Websockets support available.
+1793022374: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022374: mosquitto version 2.1.2 terminating
+1793022374: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022434: mosquitto version 2.1.2 starting
+1793022434: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022434: Bridge support available.
+1793022434: Persistence support available.
+1793022434: TLS support available.
+1793022434: TLS-PSK support available.
+1793022434: Websockets support available.
+1793022434: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022434: mosquitto version 2.1.2 terminating
+1793022434: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022495: mosquitto version 2.1.2 starting
+1793022495: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022495: Bridge support available.
+1793022495: Persistence support available.
+1793022495: TLS support available.
+1793022495: TLS-PSK support available.
+1793022495: Websockets support available.
+1793022495: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022495: mosquitto version 2.1.2 terminating
+1793022495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022555: mosquitto version 2.1.2 starting
+1793022555: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022555: Bridge support available.
+1793022555: Persistence support available.
+1793022555: TLS support available.
+1793022555: TLS-PSK support available.
+1793022555: Websockets support available.
+1793022555: password-file: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1793022555: mosquitto version 2.1.2 terminating
+1793022555: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022615: mosquitto version 2.1.2 starting
+1793022615: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022615: Bridge support available.
+1793022615: Persistence support available.
+1793022615: TLS support available.
+1793022615: TLS-PSK support available.
+1793022615: Websockets support available.
+1793022615: Warning: File /mosquitto/config/password.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password.txt`.
+
+1793022615: Warning: File /mosquitto/config/password.txt owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/password.txt`.
+
+1793022615: Warning: File /mosquitto/config/password.txt group is not mosquitto. Future versions will refuse to load this file.
+
+1793022615: Plugin builtin-security has registered to receive 'basic-auth' events.
+1793022615: Opening ipv4 listen socket on port 1883.
+1793022615: Opening ipv6 listen socket on port 1883.
+1793022615: Opening ipv4 listen socket on port 9001.
+1793022615: Opening ipv6 listen socket on port 9001.
+1793022615: mosquitto version 2.1.2 running
+1793022615: New connection from 172.21.0.2:55256 on port 1883.
+1793022615: Client noderedfc3166180ed48e2a [172.21.0.2:55256] disconnected: not authorised.
+1793022616: New connection from 172.21.0.1:50336 on port 1883.
+1793022616: New client connected from 172.21.0.1:50336 as ESP8266_Local_Node01 (p4, c1, k15, u'admin').
+1793022630: New connection from 172.21.0.2:56780 on port 1883.
+1793022630: Client noderedfc3166180ed48e2a [172.21.0.2:56780] disconnected: not authorised.
+1793022645: New connection from 172.21.0.2:38212 on port 1883.
+1793022645: Client noderedfc3166180ed48e2a [172.21.0.2:38212] disconnected: not authorised.
+1793022660: New connection from 172.21.0.2:37110 on port 1883.
+1793022660: Client noderedfc3166180ed48e2a [172.21.0.2:37110] disconnected: not authorised.
+1793022675: New connection from 172.21.0.2:60716 on port 1883.
+1793022675: Client noderedfc3166180ed48e2a [172.21.0.2:60716] disconnected: not authorised.
+1793022690: New connection from 172.21.0.2:35746 on port 1883.
+1793022690: Client noderedfc3166180ed48e2a [172.21.0.2:35746] disconnected: not authorised.
+1793022695: mosquitto version 2.1.2 terminating
+1793022695: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793022696: mosquitto version 2.1.2 starting
+1793022696: Config loaded from /mosquitto/config/mosquitto.conf.
+1793022696: Bridge support available.
+1793022696: Persistence support available.
+1793022696: TLS support available.
+1793022696: TLS-PSK support available.
+1793022696: Websockets support available.
+1793022696: Plugin builtin-security has registered to receive 'basic-auth' events.
+1793022696: Opening ipv4 listen socket on port 1883.
+1793022696: Opening ipv6 listen socket on port 1883.
+1793022696: Opening ipv4 listen socket on port 9001.
+1793022696: Opening ipv6 listen socket on port 9001.
+1793022696: mosquitto version 2.1.2 running
+1793022705: New connection from 172.21.0.2:55734 on port 1883.
+1793022705: Client noderedfc3166180ed48e2a [172.21.0.2:55734] disconnected: not authorised.
+1793022714: New connection from 172.21.0.1:34490 on port 1883.
+1793022714: New client connected from 172.21.0.1:34490 as ESP8266_Local_Node01 (p4, c1, k15, u'admin').
+1793022721: New connection from 172.21.0.2:35156 on port 1883.
+1793022721: Client noderedfc3166180ed48e2a [172.21.0.2:35156] disconnected: not authorised.
+1793022736: New connection from 172.21.0.2:41360 on port 1883.
+1793022736: Client noderedfc3166180ed48e2a [172.21.0.2:41360] disconnected: not authorised.
+1793022751: New connection from 172.21.0.2:53278 on port 1883.
+1793022751: Client noderedfc3166180ed48e2a [172.21.0.2:53278] disconnected: not authorised.
+1793022766: New connection from 172.21.0.2:33564 on port 1883.
+1793022766: Client noderedfc3166180ed48e2a [172.21.0.2:33564] disconnected: not authorised.
+1793022781: New connection from 172.21.0.2:33082 on port 1883.
+1793022781: Client noderedfc3166180ed48e2a [172.21.0.2:33082] disconnected: not authorised.
+1793022796: New connection from 172.21.0.2:44960 on port 1883.
+1793022796: Client noderedfc3166180ed48e2a [172.21.0.2:44960] disconnected: not authorised.
+1793022811: New connection from 172.21.0.2:55418 on port 1883.
+1793022811: Client noderedfc3166180ed48e2a [172.21.0.2:55418] disconnected: not authorised.
+1793022826: New connection from 172.21.0.2:43096 on port 1883.
+1793022826: Client noderedfc3166180ed48e2a [172.21.0.2:43096] disconnected: not authorised.
+1793022841: New connection from 172.21.0.2:54410 on port 1883.
+1793022841: Client noderedfc3166180ed48e2a [172.21.0.2:54410] disconnected: not authorised.
+1793022856: New connection from 172.21.0.2:49038 on port 1883.
+1793022856: Client noderedfc3166180ed48e2a [172.21.0.2:49038] disconnected: not authorised.
+1793022871: New connection from 172.21.0.2:40678 on port 1883.
+1793022871: Client noderedfc3166180ed48e2a [172.21.0.2:40678] disconnected: not authorised.
+1793022886: New connection from 172.21.0.2:38122 on port 1883.
+1793022886: Client noderedfc3166180ed48e2a [172.21.0.2:38122] disconnected: not authorised.
+1793022901: New connection from 172.21.0.2:59342 on port 1883.
+1793022901: Client noderedfc3166180ed48e2a [172.21.0.2:59342] disconnected: not authorised.
+1793022909: New connection from 172.21.0.2:59400 on port 1883.
+1793022909: New client connected from 172.21.0.2:59400 as nodereda6e6334f0612e8c0 (p4, c1, k60, u'admin').
+1793023189: Client ESP8266_Local_Node01 [172.21.0.1:34490] disconnected: exceeded timeout.
+1793023769: New connection from 172.21.0.1:37518 on port 1883.
+1793023769: New client connected from 172.21.0.1:37518 as ESP8266_Local_Node01 (p4, c1, k15, u'admin').
+1793023811: Client ESP8266_Local_Node01 [172.21.0.1:37518] disconnected: exceeded timeout.
+1793023911: New connection from 172.21.0.1:33922 on port 1883.
+1793023911: New client connected from 172.21.0.1:33922 as ESP8266_Local_Node01 (p4, c1, k15, u'admin').
+1793023922: Client nodereda6e6334f0612e8c0 [172.21.0.2:59400] disconnected.
+1793023922: New connection from 172.21.0.2:56564 on port 1883.
+1793023922: Client noderedb3bc19b41de97a44 [172.21.0.2:56564] disconnected: not authorised.
+1793023937: New connection from 172.21.0.2:50246 on port 1883.
+1793023937: Client noderedb3bc19b41de97a44 [172.21.0.2:50246] disconnected: not authorised.
+1793023952: New connection from 172.21.0.2:40720 on port 1883.
+1793023952: Client noderedb3bc19b41de97a44 [172.21.0.2:40720] disconnected: not authorised.
+1793023965: New connection from 172.21.0.2:50294 on port 1883.
+1793023965: Client nodered2f850ca189395a63 [172.21.0.2:50294] disconnected: not authorised.
+1793023980: New connection from 172.21.0.2:33730 on port 1883.
+1793023980: Client nodered2f850ca189395a63 [172.21.0.2:33730] disconnected: not authorised.
+1793023995: New connection from 172.21.0.2:43938 on port 1883.
+1793023995: Client nodered2f850ca189395a63 [172.21.0.2:43938] disconnected: not authorised.
+1793024011: New connection from 172.21.0.2:44396 on port 1883.
+1793024011: Client nodered2f850ca189395a63 [172.21.0.2:44396] disconnected: not authorised.
+1793024026: New connection from 172.21.0.2:40414 on port 1883.
+1793024026: Client nodered2f850ca189395a63 [172.21.0.2:40414] disconnected: not authorised.
+1793024030: New connection from 172.21.0.2:50516 on port 1883.
+1793024030: New client connected from 172.21.0.2:50516 as noderede0c998bc4f52d1d0 (p4, c1, k60, u'admin').
+1793024057: Client ESP8266_Local_Node01 [172.21.0.1:33922] disconnected: exceeded timeout.
+1793024496: Saving in-memory database to /mosquitto/data//mosquitto.db.
